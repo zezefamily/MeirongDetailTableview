@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>面部护理</key>
+	<array>
+		<string>补水护理</string>
+		<string>美白护理</string>
+		<string>抗衰护理</string>
+		<string>清洁护理</string>
+	</array>
+	<key>身体护理</key>
+	<array>
+		<string>前面护理</string>
+		<string>后面护理</string>
+		<string>测试护理</string>
+		<string>测试1护理</string>
+	</array>
+	<key>健康护理</key>
+	<array>
+		<string>测试健康</string>
+		<string>测试健康</string>
+		<string>测试健康222</string>
+	</array>
+	<key>上门服务</key>
+	<array>
+		<string>上门了</string>
+		<string>上门2</string>
+		<string>上门3</string>
+		<string>上门4</string>
+	</array>
+</dict>
+</plist>
